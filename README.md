@@ -51,6 +51,11 @@ Setup Migrations with seeder
   passowrd: password
 ```
 
+## Lessons Learned (Blog) (Refer)
+
+- https://www.itsolutionstuff.com/post/laravel-shopping-add-to-cart-with-ajax-exampleexample.html
+- https://medium.com/@raviyatechnical/how-to-install-jquery-in-laravel-11-vite-66a175bfc88d
+
 ## Tech Stack
 
 **Client:** Boostrap 5
