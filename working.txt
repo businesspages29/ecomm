@@ -1,0 +1,13 @@
+Create laravel demo for e-commerce
+● Customer must be able to login/register
+● Customers should be able to view a list of products by brands
+● Customers should be able to add/edit multiple products in the cart.
+● Customers should be able to place an order.
+● Manage Product Stock as well. If user buys a product then the stock of that product should
+decrease
+● On Checkout click just store the customer orders in db.
+● You can use bootstrap . No fancy design required.
+● Relationships must be used, do not use joins
+● Use migration to create tables
+● If possible use session to handle cart data
+● If possible only ask for login/register on checkout
