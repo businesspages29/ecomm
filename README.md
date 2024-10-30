@@ -53,7 +53,7 @@ Setup Migrations with seeder
 
 ## Lessons Learned (Blog) (Refer)
 
-- https://www.itsolutionstuff.com/post/laravel-shopping-add-to-cart-with-ajax-exampleexample.html
+- https://raviyatechnical.medium.com/laravel-11-shopping-add-to-cart-with-ajax-example-using-vite-jquery-and-bootstrap-5-37707c81ac1a
 - https://medium.com/@raviyatechnical/how-to-install-jquery-in-laravel-11-vite-66a175bfc88d
 
 ## Tech Stack

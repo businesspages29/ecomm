@@ -68,7 +68,7 @@
     </div>
 @endsection
 @push('scripts')
-    <script type="text/javascript">
+    <script type="module">
         $(".update-cart").change(function(e) {
             e.preventDefault();
             var ele = $(this);
